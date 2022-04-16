@@ -7,3 +7,6 @@ while numberOfLoops < 10:
     numberOfLoops -= 1
     print(numberOfApples)
 print("Number of apples: " + str(numberOfApples))
+
+// atualizado no github
+// texto no curso edx MIT sobre python inicial
